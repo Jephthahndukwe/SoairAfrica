@@ -1,0 +1,93 @@
+@media (max-width: 991px) {
+
+    .background2 {
+        height: 130vh !important;
+    }
+    .icons {
+        margin-top: 5% !important;
+        margin-bottom: 20%;
+    }
+    .contact form {
+        margin-left: 5% !important;
+        margin-top: -8% !important;
+    }
+
+    .contact form textarea {
+        width: 305px !important;
+    }
+    .contact form {
+        background: none !important;
+        padding-left: 0px !important;
+        padding-top: 0px !important;
+        width: 300px !important;
+    }
+    .contact form button {
+        padding: 7px 130px !important;
+        margin-left: 1% !important;
+    }
+    .EventDown {
+        left: 21% !important;
+        margin-top: 10% !important;
+    }
+    .EventDown .image2 {
+        width: 100% !important;
+    }
+    .contactFuture {
+        margin-bottom: -180%;
+    }
+    .contactFuture .future-frame {
+        width: 95%;
+    }
+}
+
+.contact form {
+    width: 459px;
+    margin-top: 20%;
+    height: 414px;
+    background: #303030;
+    padding-left: 15%;
+    padding-top: 10%;
+    margin-left: -7%;
+    margin-top: 20%;
+}
+
+.contact form input {
+    width: 40.9%;
+    margin-right: 5%;
+    margin-top: 6%;
+    padding: 3px 20px;
+    background: #FFFFFF;
+    border: 1px solid #A9A9A9;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    color: #000;
+}
+
+.mail {
+    width: 87% !important;
+}
+.contact form textarea {
+    padding: 15px 20px;
+    width: 340px;
+    height: 109px;
+    background: #FFFFFF;
+    border: 1px solid #A9A9A9;
+    border-radius: 25px;
+    margin-top: 5%;
+    border: none;
+    outline: none;
+}
+.contact form button {
+    padding: 7px 100px;
+    background: #1B68EC;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(15px);
+    border-radius: 25px;
+    border: none;
+    outline: none;
+}
+.EventDown {
+    margin-top: 3%;
+    margin-left: 74.5%;
+}

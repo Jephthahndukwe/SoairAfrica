@@ -1,0 +1,220 @@
+@media (max-width: 991px) {
+
+    .background {
+        height: 110vh !important;
+    }
+    .event input {
+        width: 300px !important;
+        margin-left: 2%;
+    }
+    .event .search {
+        position: relative;
+        left: -6% !important;
+    }
+    .eventSide {
+        margin-top: 23% !important;
+    }
+    .eventSide .image {
+        margin-left: 7%;
+    }
+    .eventDown {
+        top: 53.5rem !important;
+        margin-left: 36% !important;
+    }
+    .eventDown .image2 {
+        width: 105% !important;
+    }
+    .group {
+        top: 6% !important;
+        left: 85% !important;
+        width: 15% !important;
+    }
+    .p-select {
+        margin-left: 20%;
+    }
+    .program-select {
+        margin-top: 8% !important;
+    }
+    .program-img {
+        margin-top: -7% !important;
+        margin-left: 14% !important;
+    }
+    .program-img .image {
+        min-width: 92vw !important;
+        height: 120% !important;
+        margin-left: -20% !important;
+        object-fit: contain;
+    }
+   .move {
+    margin-top: 43% !important;
+   }
+
+    .program-text {
+        max-width: 92vw !important;
+        margin-top: -27.5% !important;
+        margin-left: -20%;
+    }
+    .program-text .program-link {
+        padding: 8px 140px !important;
+        margin-left: 2% !important;
+    }
+    .future {
+        margin-top: 100% !important;
+    }
+    .future .future-frame {
+        width: 95%;
+    }
+    .future-text {
+        margin-top: 6% !important;
+    }
+    .future-frame2 {
+        width: 30% !important;
+        margin-top: 46% !important;
+        margin-left: -2%;
+      }
+      .program-two {
+        margin-bottom: -150% !important;
+      }
+      .program-two .image {
+        min-width: 93vw !important;
+      }
+      .program-two .mag2 {
+        margin-top: 15%;
+      }
+      .program-two .text2 {
+        min-width: 93vw !important;
+        left: 20% !important;
+        top: 13% !important;
+        margin-bottom: 15%;
+      }
+      .program-two .text3 {
+        top: 11% !important;
+      }
+      .program-two button {
+        margin-top: 10%;
+      }
+}    
+
+
+
+.event {
+    margin-top: 10%;
+}
+
+.event input {
+    position: relative;
+    padding: 0px 10px;
+    width: 400px;
+    height: 40px;
+    border: 1px solid #FFFFFF;
+    background: transparent;
+    border-radius: 25px;
+    outline: none;
+    margin-left: -0.5%;
+    color: #FFFFFF;
+}
+
+.event .search {
+    margin-left: -4%;
+    margin-top: -0.5%;
+    color: #848686;
+    cursor: pointer;
+    position: relative;
+}
+.eventSide {
+    margin-top: -19%;
+}
+.eventSide .image {
+    width: 80%;
+    height: 80%;
+}
+.group {
+    position: relative;
+    top: 18%;
+    left: 95%;
+    width: 4%;
+}
+.eventDown {
+    position: absolute;
+    margin-top: -1.5%;
+    margin-left: 74.5%;
+}
+.EVENTDOWN {
+    margin-top: 5%;
+}
+.eventDown .image2 {
+    width: 110%;
+}
+
+.programs select {
+    padding: 5px 5px;
+    width: 119px;
+    height: 40px;
+    background: transparent;
+    border: 1px solid #2A2A2B;
+    border-radius: 10px;
+    outline: none;
+}
+.program-img .image {
+    width: 90%;
+    height: 90%;
+    object-fit: contain;
+}
+.program-text {
+    width: 465px;
+    height: 230px;
+    padding: 0 10px;
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0 0 10px 10px;
+    margin-top: -12%;
+}
+.program-text .program-link {
+    position: relative;
+    padding: 8px 170px;
+    background: #1B68EC;
+    color: #FFFFFF;
+    border-radius: 25px;
+}
+.future {
+    margin-top: 15%;
+}
+.line7 {
+    width: 85px;
+    height: 0px;
+    border: 2px solid #000;
+  }
+  .future-frame {
+    position: absolute;
+  }
+  .future-frame2 {
+    width: 13%;
+    margin-top: 15%;
+    margin-left: -2%;
+  }
+  .program-two {
+    margin-bottom: 20%;
+  }
+
+  .program-two .image {
+    width: 85.2%;
+    height: 85%;
+    object-fit: contain;
+  }
+  .text2 {
+    position: relative;
+    margin-top: -8.4%;
+  }
+  .program-two button {
+    position: relative;
+    padding: 10px 40px;
+    top: 150px;
+    background: #1B68EC;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(15px);
+    border-radius: 25px;
+    border: none;
+  }
+
+

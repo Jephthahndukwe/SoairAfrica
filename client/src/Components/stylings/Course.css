@@ -1,0 +1,270 @@
+@media (max-width: 991px) {
+    .background3 {
+        height: 202% !important;
+    }
+        .courseimage {
+            width: 8% !important;
+        }
+        .course-event {
+          margin-top: -10%;
+        }
+        .course-event p {
+          margin-top: 2%;
+        }
+        .eventSide .image2 {
+            margin-top: -8% !important;
+            margin-left: 6%;
+        }
+        .eventDown .image3 {
+            width: 100%;
+            margin-top: -6% !important;
+            margin-left: 5.5% !important;
+        }
+        .courseimg {
+            margin-left: 23% !important;
+            width: 40% !important;
+          }
+          .courseitem {
+            margin-left: 10% !important;
+          }
+          .coursename {
+            margin-left: -16% !important;
+            min-width: 100vw !important;
+            padding-left: 38% !important;
+          }
+          .name2 {
+            padding-left: 5% !important;
+          }
+          .name3 {
+            padding-left: 28% !important;
+          }
+          .coursecontent {
+            margin-top: -0% !important;
+            margin-right: 0rem !important;
+          }
+          .testi {
+            margin-bottom: -60%;
+          }
+          .background {
+            background: #ffff !important;
+          }
+          .testimony {
+            padding: 20px 15px;
+            min-width: 340px !important;
+            height: 300px !important;
+            left: 42px;
+            top: 284px;
+            border: 1px solid #D9D9D9;
+            border-radius: 20px;
+          }
+          .logo-img2 {
+            width: 40%;
+            margin-left: -5%;
+          }
+          .email {
+            width:  95% !important;
+         }
+         .bank {
+          margin-top: 3rem;
+          margin-left: 3%;
+         }
+         .enroll-hr {
+          width: 12% !important;
+        }
+        .enroll-hr2 {
+          width: 7% !important;
+        }
+        .enroll-hr3 {
+          width: 8% !important;
+        }
+        .enroll-hr4 {
+          width: 7% !important;
+        }
+        .enroll-hr5 {
+          width: 8% !important;
+        }
+        .enroll-hr6 {
+          width: 10% !important;
+        }
+        .enroll-hr7 {
+          width: 24% !important;
+        }
+        .courseName {
+          padding-top: 10%;
+        }
+        .mapp {
+            margin-top: 30% !important;
+        }
+        .enrollForm {
+          margin-bottom: -170%;
+        }
+    }
+    
+    
+    .courseimage {
+        width: 2%;
+        height: 0%;
+    }
+    .eventSide .image2 {
+        margin-top: -17%;
+    }
+    .eventDown .image3 {
+        margin-top: 17%;
+        margin-left: 10%;
+    }
+    .course-line3 {
+        position: relative;
+        width: 100px;
+        height: 0px;
+        left: 500px;
+        border: 2px solid #000000;
+      }
+      .line6 {
+        position: relative;
+        width: 15px;
+        height: 15px;
+        left: 500px;
+        top: -26px;
+        border-radius: 50%;
+        background: #000000;
+      }
+      .line8 {
+        position: relative;
+        width: 15px;
+        height: 15px;
+        left: 600px;
+        top: -40px;
+        border-radius: 50%;
+        background: #000000;
+      }
+      .courseimg {
+        width: 9%;
+      }
+      .courseitem {
+        margin-left: -1%;
+      }
+      .coursename {
+        width: 250px;
+        height: 85px;
+        left: 0px;
+        top: 247px;
+        background: #2A2A2B;
+        border: 1px solid #D9D9D9;
+        border-radius: 0px;
+      }
+      .coursecontent {
+        margin-top: -15%;
+        margin-right: 25rem;
+      }
+      .enroll {
+        height: 40px;
+        padding: 7px 20px;
+        background: #1B68EC;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+        backdrop-filter: blur(15px);
+        border-radius: 25px;
+      }
+      .month {
+        margin-left: 3%;
+        height: 40px;
+        padding: 7px 20px;
+        border: 1px solid #2A2A2B;
+        border-radius: 25px;
+      }
+      .date {
+        margin-left: 3%;
+        height: 40px;
+        padding: 7px 20px;
+        border: 1px solid #2A2A2B;
+        border-radius: 25px;
+      }
+    
+     .testimony {
+      padding: 20px 15px;
+      height: 295px;
+      left: 42px;
+      top: 284px;
+      border: 1px solid #D9D9D9;
+      border-radius: 20px;
+     }
+     .test {
+      margin-left: -4% !important;
+     }
+    
+    
+     form .text-field {
+        position: relative;
+        border-bottom: 2px solid #000;
+        margin: 30px 10px;
+     }
+     .text-field input {
+      width: 100%;
+      padding: 0 5px;
+      height: 40px;
+      font-size: 16px;
+      border: none;
+      outline: none;
+      background: none;
+     }
+     .email {
+        width: 50%;
+     }
+     .text-field label {
+      position: absolute;
+      top: 50%;
+      left: 5px;
+      color: #adadad;
+      transform: translateY(-50%);
+      font-size: 16px;
+      pointer-events: none;
+     }
+     .text-field span::before {
+      content: '';
+      position: absolute;
+      top: 40px;
+      left: 0;
+      width: 100%;
+      height: 2px;
+     }
+    .text-field input:focus ~ label,
+    .text-field input:valid ~ label {
+      top: -5px;
+    }
+    
+   .select-field {
+    width: 100%;
+    padding: 15px 0px;
+    border: none;
+    outline: none;
+    color: #adadad;
+   }
+
+    .enroll-hr {
+      width: 50%;
+    }
+    .enroll-hr2 {
+      width: 41.7%;
+    }
+    .enroll-hr3 {
+      width: 49%;
+    }
+    .enroll-hr4 {
+      width: 48%;
+    }
+    .enroll-hr5 {
+      width: 39%;
+    }
+    .enroll-hr6 {
+      width: 44.5%;
+    }
+    .enroll-hr7 {
+      width: 52.2%;
+    }
+    
+    .enrollBtn {
+      background: transparent;
+      border: 2px solid;
+      outline: none;
+      padding: 3px 100px;
+      border-radius: 5px;
+    }
